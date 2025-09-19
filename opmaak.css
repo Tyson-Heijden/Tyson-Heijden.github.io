@@ -41,3 +41,19 @@ ul li a {
 ul li a:hover {
   background-color: # rgb(137, 167, 255);
 }
+body {
+  color: blue;
+}
+
+
+h1 {
+  color: rgb(255, 255, 255);
+}
+
+h2 {
+  color: rgb(255, 255, 255);
+}
+
+p1 {
+  color: rgb(255, 255, 255);
+  }
