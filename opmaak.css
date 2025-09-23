@@ -33,7 +33,7 @@ ul li {
 
 ul li a {
   display: block;
-  color: rgb(255, 255, 255);
+  color: rgb(137, 167, 255);
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
@@ -43,7 +43,7 @@ ul li a:hover {
   background-color: # rgb(137, 167, 255);
 }
 body {
-  color: blue;
+  color: rgb(255, 255, 255)
 }
 
 
