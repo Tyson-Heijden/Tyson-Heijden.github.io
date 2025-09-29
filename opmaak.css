@@ -64,3 +64,5 @@ h2 {
 p1 {
   color: rgb(255, 255, 255);
   }
+
+  p.double {border-style: double;}
