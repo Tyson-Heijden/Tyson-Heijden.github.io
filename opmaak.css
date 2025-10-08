@@ -49,8 +49,12 @@ ul li a {
   display: inline;
   color: #5476ff;
   text-align: left;
-  padding: 14px 16px;
+  padding: 20px 20px;
   text-decoration: none;
+}
+
+ul li a:hover {
+background-color: #5476ff;
 }
 
 h1 {
