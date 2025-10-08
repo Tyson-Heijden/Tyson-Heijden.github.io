@@ -83,3 +83,11 @@ p3 {
 .h4hobby {
   text-align: right;
 }
+
+<style>
+.rounded-box {
+  padding: 10px 20px;      /* ruimte rondom de tekst */
+  border: 2px solid #000;  /* lijn om het vierkant */
+  border-radius: 15px;     /* ronde hoeken */
+  display: inline-block;   /* zodat de box niet de hele breedte inneemt */
+}
