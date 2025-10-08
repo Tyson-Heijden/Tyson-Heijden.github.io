@@ -46,10 +46,10 @@ ul li a {
   left: 0;
   top: 0;
   width: 100%;
-  display: block;
+  display: inline-block;
   color: rgb(0, 0, 0);
   text-align: left;
-  padding: 14px 16px;
+  padding: 0;
   text-decoration: none;
 }
 
