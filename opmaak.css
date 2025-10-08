@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0, 255, 247);
+  background-color: rgb(0, 0, 255);
 }
 
 h1 {
@@ -46,7 +46,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: rgb(0, 255, 247)
+  background-color: rgb(0, 0, 255)
 }
 body {
   color: rgb(0, 0, 0)
@@ -54,7 +54,7 @@ body {
 
 
 h1 {
-  color: rgb(0, 255, 247);
+  color: rgb(0, 0, 255);
 }
 
 h2 {
@@ -73,7 +73,7 @@ p3 {
   background-color: rgb(255, 255, 255);
   text-align: center;
   padding: 10px; 
-  color: rgb(0, 255, 247);
+  color: rgb(0, 0, 255);
 }
 
 .h2hobby {
@@ -84,10 +84,12 @@ p3 {
   text-align: right;
 }
 
-<style>
-.rounded-box {
-  padding: 10px 20px;      /* ruimte rondom de tekst */
-  border: 2px solid #000;  /* lijn om het vierkant */
-  border-radius: 15px;     /* ronde hoeken */
-  display: inline-block;   /* zodat de box niet de hele breedte inneemt */
-}
+.footer {
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 255);
+    text-align: center;
+ }
