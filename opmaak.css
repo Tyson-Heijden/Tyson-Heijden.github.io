@@ -46,7 +46,7 @@ ul li a {
   left: 0;
   top: 0;
   width: 100%;
-  display: inline-block;
+  display: inline;
   color: rgb(0, 0, 0);
   text-align: left;
   padding: 14px 16px;
