@@ -76,7 +76,7 @@ p3 {
 .header {
   position: sticky;
   left: 0;
-  top: 100px;
+  top: 50px;
   width: 100%;
   background-color: rgb(255, 255, 255);
   text-align: center;
