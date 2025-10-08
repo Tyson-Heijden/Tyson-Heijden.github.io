@@ -55,7 +55,7 @@ ul li a {
 
 ul li a:hover {
 background-color: #5476ff;
-display: inline;
+display: inline-block;
 }
 
 h1 {
