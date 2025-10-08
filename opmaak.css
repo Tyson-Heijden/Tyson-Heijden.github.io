@@ -57,11 +57,6 @@ ul li a:hover {
   background-color: #5476ff;
 }
 
-body {`
-  color: rgb(0, 0, 0)
-}
-
-
 h1 {
   color: #5476ff;
 }
@@ -79,6 +74,9 @@ p3 {
 }
 
 .header {
+  position: sticky;
+  left: 0;
+  top: 10px;
   width: 100%;
   background-color: rgb(255, 255, 255);
   text-align: center;
