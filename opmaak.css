@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(0, 0, 255);
+  background-color: #5476ff;
 }
 
 h1 {
@@ -46,15 +46,15 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: rgb(0, 0, 255)
+  background-color: #5476ff;
 }
-body {
+body {`
   color: rgb(0, 0, 0)
 }
 
 
 h1 {
-  color: rgb(0, 0, 255);
+  color: #5476ff;
 }
 
 h2 {
@@ -73,7 +73,7 @@ p3 {
   background-color: rgb(255, 255, 255);
   text-align: center;
   padding: 10px; 
-  color: rgb(0, 0, 255);
+  color: #5476ff;
 }
 
 .h2hobby {
@@ -90,6 +90,6 @@ p3 {
     bottom: 0;
     width: 100%;
     background-color: rgb(255, 255, 255);
-    color: rgb(0, 0, 255);
+    color: #5476ff;
     text-align: center;
  }
