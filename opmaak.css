@@ -1,5 +1,5 @@
 body {
-  background-color: #9FBCAF;
+  background-color: #f4b41a;
 }
 
 h1 {
@@ -31,7 +31,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #7A9DB1;
+  background-color: #143d59;
 }
 
 ul li {
@@ -47,11 +47,11 @@ ul li a {
 }
 
 ul li a:hover {
-background-color: #c6c7ce;
+background-color: #f4b41a;
 }
 
 h1 {
-  color: #c6c7ce;
+  color: #f4b41a;
 }
 
 h2 {
@@ -68,7 +68,7 @@ p3 {
 
 .header {
   width: 100%;
-  background-color: #7A9DB1;
+  background-color: #143d59;
   text-align: center;
   padding: 0px; 
   color: rgb(0, 0, 0);
@@ -87,7 +87,7 @@ p3 {
     left: 0;
     bottom: 0px;
     width: 100%;
-    background-color: #7A9DB1;
-    color: rgb(0, 0, 0);
+    background-color: #143d59;
+    color: rgb(255, 255, 255);
     text-align: center;
  }
