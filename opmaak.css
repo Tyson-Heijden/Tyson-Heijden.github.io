@@ -68,10 +68,10 @@ p3 {
 
 .header {
   width: 100%;
-  background-color: rgb(255, 255, 255);
+  background-color: #7A9DB1;
   text-align: center;
   padding: 0px; 
-  color: #7A9DB1;
+  color: rgb(0, 0, 0);
 }
 
 .h2hobby {
@@ -87,7 +87,7 @@ p3 {
     left: 0;
     bottom: 0px;
     width: 100%;
-    background-color: rgb(255, 255, 255);
-    color: #7A9DB1;
+    background-color: #7A9DB1;
+    color: rgb(0, 0, 0);
     text-align: center;
  }
