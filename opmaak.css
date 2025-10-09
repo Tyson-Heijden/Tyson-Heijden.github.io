@@ -1,5 +1,5 @@
 body {
-  background-color: #c6c7ce;
+  background-color: #9FBCAF;
 }
 
 h1 {
@@ -31,7 +31,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(255, 255, 255)
+  background-color: #9FBCAF;
 }
 
 ul li {
@@ -71,7 +71,7 @@ p3 {
   background-color: rgb(255, 255, 255);
   text-align: center;
   padding: 0px; 
-  color: #c6c7ce;
+  color: #7A9DB1;
 }
 
 .h2hobby {
@@ -88,6 +88,6 @@ p3 {
     bottom: 0px;
     width: 100%;
     background-color: rgb(255, 255, 255);
-    color: #c6c7ce;
+    color: #7A9DB1;
     text-align: center;
  }
