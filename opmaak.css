@@ -49,7 +49,6 @@ ul li a {
 
 ul li a:hover {
 background-color: #5476ff;
-display: inline;
 }
 
 h1 {
@@ -87,7 +86,7 @@ p3 {
 .footer {
     position: sticky;
     left: 0;
-    bottom: 10px;
+    bottom: 0px;
     width: 100%;
     background-color: rgb(255, 255, 255);
     color: #5476ff;
