@@ -87,7 +87,7 @@ p3 {
 .footer {
     position: sticky;
     left: 0;
-    bottom: 0px;
+    bottom: -10px;
     width: 100%;
     background-color: rgb(255, 255, 255);
     color: #5476ff;
