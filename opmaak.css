@@ -40,10 +40,10 @@ ul li {
 
 ul li a {
   width: 100%;
-  display: inline-block;
+  display: block;
   color: #000000;
   text-align: left;
-  padding: 20px 20px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
@@ -87,7 +87,7 @@ p3 {
 .footer {
     position: sticky;
     left: 0;
-    bottom: -10px;
+    bottom: 10px;
     width: 100%;
     background-color: rgb(255, 255, 255);
     color: #5476ff;
