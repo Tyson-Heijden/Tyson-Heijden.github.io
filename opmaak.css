@@ -1,5 +1,5 @@
 body {
-  background-color: #5476ff;
+  background-color: #c6c7ce;
 }
 
 h1 {
@@ -47,11 +47,11 @@ ul li a {
 }
 
 ul li a:hover {
-background-color: #5476ff;
+background-color: #c6c7ce;
 }
 
 h1 {
-  color: #5476ff;
+  color: #c6c7ce;
 }
 
 h2 {
@@ -71,7 +71,7 @@ p3 {
   background-color: rgb(255, 255, 255);
   text-align: center;
   padding: 0px; 
-  color: #5476ff;
+  color: #c6c7ce;
 }
 
 .h2hobby {
@@ -88,6 +88,6 @@ p3 {
     bottom: 0px;
     width: 100%;
     background-color: rgb(255, 255, 255);
-    color: #5476ff;
+    color: #c6c7ce;
     text-align: center;
  }
