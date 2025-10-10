@@ -31,7 +31,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #143d59;
+  background-color: #2cabff;
 }
 
 ul li {
@@ -68,7 +68,7 @@ p3 {
 
 .header {
   width: 100%;
-  background-color: #143d59;
+  background-color: #2cabff;
   text-align: center;
   padding: 0px; 
   color: rgb(0, 0, 0);
@@ -87,7 +87,7 @@ p3 {
     left: 0;
     bottom: 0px;
     width: 100%;
-    background-color: #143d59;
+    background-color: #2cabff;
     color: rgb(255, 255, 255);
     text-align: center;
  }
