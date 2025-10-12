@@ -107,3 +107,7 @@ h3 {
 .h4pixel {
   text-align: center;
 }
+
+iframe {
+  box-align: center;
+}
