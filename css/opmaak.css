@@ -163,3 +163,19 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.imgunc {
+  float: right;
+}
+
+.imgorg {
+  float: left;
+}
+
+.imgdata {
+  float: right;
+}
+
+.imgbe {
+  float: left;
+}
