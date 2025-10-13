@@ -111,3 +111,7 @@ h3 {
 iframe {
   box-align: center;
 }
+
+img {
+  border-radius: 67px;
+}
