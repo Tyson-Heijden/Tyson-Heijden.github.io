@@ -138,3 +138,15 @@ img {
   float: right;
   margin-top: -200px;
 }
+
+.img220 {
+  float: left;
+}
+
+.imgbyte {
+  float: right;
+}
+
+.imgascii {
+  float: right; 
+}
