@@ -2,12 +2,6 @@ body {
   background-color: #c1c1c1;
 }
 
-h2 {
-  color: rgb(255, 255, 255);
-  margin-left: 0px;
-  text-align: left;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -46,10 +40,6 @@ h1 {
 h2 {
   color: #0080d5;
 }
-
-p1 {
-  color: rgb(255, 255, 255);
-  }
 
 .header {
   width: 100%;
