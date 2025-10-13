@@ -1,149 +1,157 @@
+/*Dit zorgt ervoor dat de achtergrond van de hele pagina grijsachtig word*/
 body {
   background-color: #c1c1c1;
 }
 
+/* Dit zorgt ervoor dat de standaard rondjes op lijsten verwijderd worden*/
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
+/* Dit bepaald hoe de menubalk eruit komt te zien*/
 ul {
   width: 100%;
-  overflow: hidden;
-  background-color: #0080d5;
+  overflow: hidden; /* Dit zorgt er voor dat er geen dingen uit de balk vallen*/
+  background-color: #0080d5; /* Dit zorgt ervoor dat de kleur van de menubalk blauw word*/
 }
 
+/* Dit zorgt ervoor dat alles in de menubalk naast elkaar komt te staan*/
 ul li {
-  float: left;
+  float: left; /* Dit zorgt ervoor dat alles in de menubalk naar links gaat*/
 }
 
+/* Dit bepaald hoe de links in de menubalk eruit komen te zien*/
 ul li a {
   display: block;
-  color: #ffffff;
-  text-align: left;
-  padding: 14px 16px;
+  color: #ffffff; /* Dit maakt de tekst van de links wit*/ 
+  text-align: left; /* Dit zet weer alles in de menubalk links*/
+  padding: 14px 16px; /* Dit bepaald de grote van de ruimte rondom de links in de menubalk*/
   text-decoration: none;
 }
 
 ul li a:hover {
-background-color: #c1c1c1;
+background-color: #c1c1c1; /* Als je over de links in de menubalk heengaat word het vierkant grijsachtig*/
 }
 
 h1 {
-  color: #0080d5;
+  color: #0080d5; /*tekstkleur*/
 }
 
 h2 {
-  color: #0080d5;
+  color: #0080d5; /*tekstkleur*/
 }
 
+/* De balk aan de bovenkant van elke pagina (bij mij is dit alleen een tekst) */
 .header {
   width: 100%;
-  background-color: #c1c1c1;
-  text-align: center;
+  background-color: #c1c1c1; /* de achtergrondkleur van de balk aan de bovenkan van elke pagina*/
+  text-align: center; /* De tekst in de balk komt in het midden te staan*/
   padding: 0px; 
-  color: rgb(0, 0, 0);
+  color: rgb(0, 0, 0); /* Tekstkleur*/
 }
 
 .h2hobby {
-  text-align: right;
+  text-align: right; /* Tekst komt rechts*/
 }
 
 .h4hobby {
-  text-align: right;
+  text-align: right; /* Tekst komt rechts*/
 }
 
+/* De balk onderaan de pagina*/
 .footer {
     position: sticky;
     left: 0;
     bottom: 0px;
     width: 100%;
-    background-color: #0080d5;
-    color: rgb(255, 255, 255);
-    text-align: center;
+    background-color: #0080d5; /* Achtergrondkleur */
+    color: rgb(255, 255, 255); /* Tekstkleur */
+    text-align: center; /* Tekst komt in het midden*/
  }
 
 h3 {
-  color: #ffffff;
+  color: #ffffff; /* Tekstkleur */
 }
 
 .h3hobby {
-  text-align: right;
+  text-align: right; /* Tekst komt rechts*/
 }
 
 .h2pixel {
-  text-align: center;
+  text-align: center; /* Tekst komt in het midden */
 }
 
 .h4pixel {
-  text-align: center;
+  text-align: center; /* Tekst komt in het midden */
 }
 
 img {
-  border-radius: 40px;
+  border-radius: 40px; /*Dit zorgt ervoor dat alle plaatjes een ronde hoek krijgt*/
 }
 
 .imginformatica {
-  margin-left: 125px;
+  margin-left: 125px; /* Het plaatje gaat 125 px van de linkerkant af staan*/
 }
 
 .v97 {
-  float: right;
+  float: right; /* plaatje komt rechts*/
 }
 
 .info {
-  float: left;
+  float: left; /* plaatje komt rechts*/
   margin-top: -200px;
 }
 
 .imgoutput {
-  float: left;
+  float: left; /* plaatje komt links*/
   margin-top: -200px;
 }
 
 .imgscr {
-  float: right;
+  float: right; /* plaatje komt rechts*/
   margin-top: -200px;
 }
 
 .img220 {
-  float: left;
+  float: left; /* plaatje komt links*/
 }
 
 .imgbyte {
-  float: right;
+  float: right; /* plaatje komt rechts*/
 }
 
 .imgascii {
-  float: right; 
+  float: right; /* plaatje komt rechts*/
 }
 
 .imgcsm {
-  float: right;
+  float: right; /* plaatje komt rechts*/
 }
 
 .imgbr24 {
-  float: left;
+  float: left; /* plaatje komt links*/
 }
 
+/* Dit zet de video in het midden*/
 .ytkl {
-  display: block;
+  display: block; 
   margin: 0 auto;
 }
 
 .imgunc {
-  float: right;
+  float: right; /* plaatje komt rechts*/
 }
 
 .imgorg {
-  float: left;
+  float: left; /* plaatje komt links*/
 }
 
 .imgdata {
-  float: right;
+  float: right; /* plaatje komt rechts*/
 }
 
 .imgbe {
-  float: left;
+  float: left; /* plaatje komt links*/
 }
